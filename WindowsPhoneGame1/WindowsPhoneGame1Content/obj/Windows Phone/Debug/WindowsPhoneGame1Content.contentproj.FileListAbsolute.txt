@@ -1,0 +1,4 @@
+C:\Users\kerem\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\kerem\Desktop\cd\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\flash bellek\yazılım laboratuvarı 1\proje2_akilli_fareler\akıllı_fareler_kaynak_kod\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache

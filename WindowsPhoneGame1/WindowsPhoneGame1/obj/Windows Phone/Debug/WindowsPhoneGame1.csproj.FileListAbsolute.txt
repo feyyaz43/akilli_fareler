@@ -1,0 +1,70 @@
+C:\Users\kerem\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\WindowsPhoneGame1.dll
+C:\Users\kerem\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\WindowsPhoneGame1.pdb
+C:\Users\kerem\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\kerem\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\kerem\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WindowsPhoneGame1.dll
+C:\Users\kerem\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WindowsPhoneGame1.pdb
+C:\Users\kerem\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\kerem\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\kerem\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\kerem\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\WindowsPhoneGame1.xap
+C:\Users\kerem\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\kerem\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\car.xnb
+C:\Users\kerem\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\Ball-red-48.xnb
+C:\Users\kerem\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\duvar.xnb
+C:\Users\kerem\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\CarGameFont.xnb
+C:\Users\PC\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\car.xnb
+C:\Users\PC\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\Ball-red-48.xnb
+C:\Users\PC\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\duvar.xnb
+C:\Users\PC\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\CarGameFont.xnb
+C:\Users\PC\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\WindowsPhoneGame1.dll
+C:\Users\PC\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\WindowsPhoneGame1.pdb
+C:\Users\PC\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\PC\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WindowsPhoneGame1.dll
+C:\Users\PC\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WindowsPhoneGame1.pdb
+C:\Users\PC\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\PC\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\PC\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\PC\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\WindowsPhoneGame1.xap
+C:\Users\PC\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\PC\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\fare_resim.xnb
+C:\Users\PC\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\çizgi.xnb
+C:\Users\PC\Desktop\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\kirmizi.xnb
+C:\Users\kerem\Desktop\cd\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\car.xnb
+C:\Users\kerem\Desktop\cd\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\Ball-red-48.xnb
+C:\Users\kerem\Desktop\cd\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\duvar.xnb
+C:\Users\kerem\Desktop\cd\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\fare_resim.xnb
+C:\Users\kerem\Desktop\cd\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\çizgi.xnb
+C:\Users\kerem\Desktop\cd\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\kirmizi.xnb
+C:\Users\kerem\Desktop\cd\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\CarGameFont.xnb
+C:\Users\kerem\Desktop\cd\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\WindowsPhoneGame1.dll
+C:\Users\kerem\Desktop\cd\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\WindowsPhoneGame1.pdb
+C:\Users\kerem\Desktop\cd\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\kerem\Desktop\cd\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\kerem\Desktop\cd\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WindowsPhoneGame1.dll
+C:\Users\kerem\Desktop\cd\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WindowsPhoneGame1.pdb
+C:\Users\kerem\Desktop\cd\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\kerem\Desktop\cd\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\kerem\Desktop\cd\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\kerem\Desktop\cd\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\WindowsPhoneGame1.xap
+C:\Users\kerem\Desktop\cd\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\PC\Desktop\flash bellek\yazılım laboratuvarı 1\proje2_akilli_fareler\akıllı_fareler_kaynak_kod\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\car.xnb
+C:\Users\PC\Desktop\flash bellek\yazılım laboratuvarı 1\proje2_akilli_fareler\akıllı_fareler_kaynak_kod\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\Ball-red-48.xnb
+C:\Users\PC\Desktop\flash bellek\yazılım laboratuvarı 1\proje2_akilli_fareler\akıllı_fareler_kaynak_kod\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\duvar.xnb
+C:\Users\PC\Desktop\flash bellek\yazılım laboratuvarı 1\proje2_akilli_fareler\akıllı_fareler_kaynak_kod\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\fare_resim.xnb
+C:\Users\PC\Desktop\flash bellek\yazılım laboratuvarı 1\proje2_akilli_fareler\akıllı_fareler_kaynak_kod\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\çizgi.xnb
+C:\Users\PC\Desktop\flash bellek\yazılım laboratuvarı 1\proje2_akilli_fareler\akıllı_fareler_kaynak_kod\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\kirmizi.xnb
+C:\Users\PC\Desktop\flash bellek\yazılım laboratuvarı 1\proje2_akilli_fareler\akıllı_fareler_kaynak_kod\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\Content\CarGameFont.xnb
+C:\Users\PC\Desktop\flash bellek\yazılım laboratuvarı 1\proje2_akilli_fareler\akıllı_fareler_kaynak_kod\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\WindowsPhoneGame1.dll
+C:\Users\PC\Desktop\flash bellek\yazılım laboratuvarı 1\proje2_akilli_fareler\akıllı_fareler_kaynak_kod\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\WindowsPhoneGame1.pdb
+C:\Users\PC\Desktop\flash bellek\yazılım laboratuvarı 1\proje2_akilli_fareler\akıllı_fareler_kaynak_kod\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\flash bellek\yazılım laboratuvarı 1\proje2_akilli_fareler\akıllı_fareler_kaynak_kod\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\PC\Desktop\flash bellek\yazılım laboratuvarı 1\proje2_akilli_fareler\akıllı_fareler_kaynak_kod\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WindowsPhoneGame1.dll
+C:\Users\PC\Desktop\flash bellek\yazılım laboratuvarı 1\proje2_akilli_fareler\akıllı_fareler_kaynak_kod\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WindowsPhoneGame1.pdb
+C:\Users\PC\Desktop\flash bellek\yazılım laboratuvarı 1\proje2_akilli_fareler\akıllı_fareler_kaynak_kod\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\PC\Desktop\flash bellek\yazılım laboratuvarı 1\proje2_akilli_fareler\akıllı_fareler_kaynak_kod\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\PC\Desktop\flash bellek\yazılım laboratuvarı 1\proje2_akilli_fareler\akıllı_fareler_kaynak_kod\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\PhoneGameThumb.png
+C:\Users\PC\Desktop\flash bellek\yazılım laboratuvarı 1\proje2_akilli_fareler\akıllı_fareler_kaynak_kod\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\bin\Windows Phone\Debug\WindowsPhoneGame1.xap
+C:\Users\PC\Desktop\flash bellek\yazılım laboratuvarı 1\proje2_akilli_fareler\akıllı_fareler_kaynak_kod\WindowsPhoneGame1\WindowsPhoneGame1\WindowsPhoneGame1\obj\Windows Phone\Debug\XapCacheFile.xml
